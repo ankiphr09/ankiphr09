@@ -112,13 +112,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankiphr09&show_icons=true&theme=default&hide_border=true" alt="Ankit's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankiphr09&hide_border=true" alt="Ankit's GitHub streak" height="165">
-</p>
-
----
-
 <p align="center">📫 Reach me at <b>ankiphr09@gmail.com</b> or connect on <a href="https://www.linkedin.com/in/pachauriankit/">LinkedIn</a></p>
